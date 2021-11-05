@@ -1,9 +1,0 @@
-{
-    "env":{
-        "DB_USER":"thapa",
-        "DB_PASSWORD":"placedb",
-        "DB_NAME":"mern",
-        "GOOGLE_API_KEY":"...",
-        "JWT_KEY":"never_give_to_anyone"
-    }
-}
